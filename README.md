@@ -5,7 +5,14 @@
 
 This roundtable fosters dialogue about the current state of digital methods for Internet research in Brazil. We seek to celebrate emerging research practices and kick off a Global South.
 ## Call for Participation
-tba
+This roundtable fosters dialogue about the current state of digital methods for Internet research in Brazil. We seek to celebrate emerging research practices and kick off a Global South network, situating them within a transitional methodological moment in which digital methods and methodologies have been built with, in and about AI, web platforms and data visualisation. This roundtable does not provide an exhaustive overview of digital methods in Brazil. Instead, it focuses on approaches specifically developed within the Brazilian context, offering unique perspectives on the field. 🇧🇷
+
+✏️Confirm your participation here. If you join us online, we will email you the link.
+
+🔗You are welcome to join the Digital Methods Global South Network by collaborating with us to map Digital Methods in Brazil (click here!) The results of this form will be displayed here and updated continuously 🤓.
+
+Join us in person or online! ✨👩🏻‍💻❣️
+
 ### What Digital Methods are we talking about?
 tba
 ### A hybrid round-table at King’s College London
