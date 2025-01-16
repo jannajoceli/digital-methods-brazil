@@ -34,9 +34,79 @@ In 2016, the data journalism [Coda.BR](https://escoladedados.org/coda/coda2016/)
 In 2019, Métodos Digitais: Teoria-Prática-Crítica (2019), edited by Janna Joceli Omena, marks the launch of the first book in Portuguese on digital methods, gathering seminal and original texts authored by key Brazilians and International researchers in the field. The book addresses digital methods from a theoretical, practical, and critical perspective and has been adopted by several Brazilian universities to introduce these methods. Since 2019, research groups and labs have been established in the country, including the principles and practice of digital methods. For instance, the [R-EST research group](http://www.dgp.cnpq.br/dgp/espelhogrupo/498637) of the Federal University of Minas Gerais (UFMG), under Carlos D'Andrea's coordination, investigates how digital platforms mediate political and social interactions.
 
 ## Programme
-tba
+Opening 14:00 - 14:15
+Welcome & What digital methods are we talking about?
+Janna Joceli Omena (in person)
+This opening statement unpacks digital methods from conceptual and practical perspectives. It will focus on how the practice of digital methods enables researchers to conduct digital fieldwork and gain a deeper understanding of their study topic through the lens of three distinct yet interconnected pillars: (i) platform grammatisation, (ii) online (sub)cultures of use, and (iii) the affordances and limitations of computational media necessary for implementing the method.
+
+📣🕸️🙋🏻Please join this [Miroboard](https://bit.ly/Metodos-Digitais-Brasil-Miroboard)  to introduce yourself and ask questions throughout the talks.
+
+📣🇧🇷 👩🏻‍💻 You are welcome to contribute and be part of the Digital Methods Global South Network by filling out the form Mapeando Métodos Digitais no Brasil.
+
+
+15m Interventions 
+
+14:15 - 14:30
+Mapping research groups and labs developing digital methods across five Brazilian Regions: North, Northeast, Central-West, Southeast, South
+Alan Angeluci (in person)
+This presentation shares the findings of a bibliometric study that identifies Brazilian researchers and institutions from all five regions of the country who have published scientific works employing or focused on digital methods.
+
+14:30  - 14:45
+Digital Methods and Schools of (Digital) Media and Communication Studies: Convergencies and Possibilities in Brazil
+Elias Bitencourt (online)
+This talk briefly revisits key research schools and agendas within the field of media and communication studies in Brazil that have created favourable conditions for the emergence of initiatives focused on the research and development of digital methods in the country.
+
+14:45 - 15:00
+A brief history of software development for digital methods research in Brazil
+Giulia Tucci (online)
+This talk explores tools and methodologies developed in Brazil that are (or could be) used in digital methods research, highlighting innovative practices and localized contributions. Examining key projects and software initiatives showcases Brazil's role in advancing digital research techniques and fostering interdisciplinary collaboration.
+
+Tea break
+15:00 - 15:15
+
+Discussant Commentary and Q&A Panellists
+
+15:15 - 15:30
+Critical commentary and insights 
+Richard Rogers (in person)
+
+15:30 - 15:40
+Q&A Panelists 
+
+📣You can join this Miroboard to ask questions 🙋🏿‍♀️🙋🏻🙋🏽‍♂️
+Short link: [https://bit.ly/Metodos-Digitais-Brasil-Miroboard](https://bit.ly/Metodos-Digitais-Brasil-Miroboard) 
+
+
+Collective Discussion
+15:40 - 16:15
+
+Dialogue, Connection & Collective Discussion
+Thais Lobo, Janna Joceli Omena (in person)
+This moment fosters dialogue about the current state of digital methods for Internet research in Brazil. We will use a shared document to promote dialogue, networking, and the launch of a Global South network.
+
+📣You can join this Miroboard to engage in collective discussion and networking ✨
+Short link: [https://bit.ly/Metodos-Digitais-Brasil-Miroboard](https://bit.ly/Metodos-Digitais-Brasil-Miroboard) 
+
 ## Meet the Guest Speakers
-tba
+Alan Angeluci, Universidade de São Paulo (USP), São Paulo, Brazil.
+Alan is a Productivity Research Fellow (PQ-2) of the National Council for Scientific and Technological Development (CNPq). Senior Lecturer at the Department of Information and Culture, School of Communications and Arts, University of São Paulo (ECA/USP), and at the Graduate Programs in Information Science and Communication Sciences (PPGCI and PPGCOM ECA/USP). Leader of the Smart Media and Users Research Group (SMU/CNPq) (smartmediausers.org). Conducted postdoctoral studies at ECA/USP and the University of Texas at Austin, USA. Holds a PhD from the Polytechnic School of USP, with a doctoral exchange period at the University of Brighton, England. Earned a Master's and Bachelor's degree from the Faculty of Architecture, Arts, Communication, and Design at São Paulo State University (UNESP). Main areas of teaching, research, and outreach include Data Visualisation, Digital Methods, Information and Communication Technologies (ICT), Digital Culture, and Human-Computer Interaction (HCI).
+
+Elias Bitencourt, Universidade Estadual da Bahia (UNEB), Bahia, Brazil.
+Elias is an Associate Professor in the Design Undergraduate Program at the State University of Bahia (UNEB), with a Ph.D. in Communication from FACOM/UFBA and a Master’s in Culture and Society from IHAC/UFBA. Visiting researcher at the Milieux Institute in Canada in 2019. Lead of Datalab/Design (CNPq) at UNEB, a research and development lab dedicated to data visualization and digital methodologies. Research interests include data visualization, digital methods, platform studies, digital imaginaries, and the social impacts of algorithmic mediation. Background in Design, Applied Social Sciences, Information Science, Digital Humanities, STS, Digital Methods.
+
+Giulia Tucci, Universidade Federal do Rio de Janeiro, Instituto Brasileiro de Informação em Ciência e Tecnologia e International Center for Tropical Agriculture, Rio de Janeiro, Brazil.
+Giulia Tucci has a Ph.D. in Information Sciences (2023) from the Brazilian Institute of Information in Science and Technology (IBICT) and the School of Communication at the Federal University of Rio de Janeiro (UFRJ). She has a master's degree in Biomedical Engineering from COPPE/UFRJ (2011) and a bachelor's degree in Chemical Engineering from PUC-Rio (2006). Since 2017, she has focused her studies on the information flow on digital platforms. Her doctoral research investigated the flow of information (and disinformation) on Telegram during the 2022 electoral campaign in Brazil. Her expertise spans computational social sciences, political studies, and digital methods. Currently, she is a postdoctoral researcher in a joint program between IBICT and UFRJ, as well as a visiting researcher at the Alliance of Bioversity International and CIAT, contributing to the CGIAR FOCUS Climate Security program.
+
+Richard Rogers, Media Studies, University of Amsterdam
+Richard Rogers is Professor of New Media and Digital Culture, Media Studies and Director of the Digital Methods Initiative, Humanities Labs, University of Amsterdam. He is author of Information Politics on the Web, Digital Methods (both MIT Press) as well as Doing Digital Methods (Sage). 
+
 ## Meet the Moderators
-tba
+Janna Joceli Omena, King’s College London, United Kingdom.
+Janna is from Northeast Brazil, Pernambuco, Recife, and has a PhD in Digital Media from NOVA University Lisbon. She is the author of Métodos Digitais: Teoria-Prática-Crítica (2019), the first edited collection on digital methods in Portuguese, bringing together seminal and original texts. In Lisbon, Portugal, she founded the SMART Data Sprint (2016-2023), an initiative that provided a platform for teaching and developing digital methods, benefiting hundreds of participants and collaborators. She joined King’s College London in mid-2024 as a Digital Methods Lecturer (Assistant Professor) in the Department of Digital Humanities. Janna’s work focuses on understanding the epistemological dimensions of AI, web technologies, digital objects, and research software in designing and implementing methods and their role in research and knowledge production. Her research explores the practice and theory of digital methods, where she investigates the technicity of computational media from conceptual, technical, and empirical perspectives. She applies this knowledge to develop accessible and reproducible methodologies, supporting collaborations that build research software for analysing visual media content and online data.
+
+Thais Lobo, King’s College London, United Kingdom
+Thais Lobo holds an MA in Digital Humanities from King's College London and is currently engaged in ERC-funded research projects within the Departments of Digital Humanities and War Studies (Digisilk and Security Flows, respectively). As a media researcher and practitioner, she combines data analysis and research outreach to disseminate critical insights into digital platforms and online cultures. She has applied digital methods to explore social issues like health disinformation, political bots, greenwashing, climate change denial, datafication and digital surveillance in interdisciplinary projects collaborating with external organisations in the UK. Her experience includes roles in the media and research fields in Brazil.
+
 ## Acknowledgements
+Janna Joceli Omena led the ideation of the event and authored this page, with contributions from Thais Lobo, Elias Bitencourt, Giulia Tucci and Alan Angelluci to the overall discussion and editorial work, bringing their experience on the Brazilian academic landscape. Bitencourt has also contributed to the section A Quick-and-Dirty Historical Context of Digital Methods in Brazil. Many thanks to Charlotte and Iryna for providing event logistics support, and special thanks to Jonathan Gray and Liliana Bounegru for their support in making this event possible.
+
