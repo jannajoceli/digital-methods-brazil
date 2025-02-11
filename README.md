@@ -11,7 +11,7 @@ This roundtable fosters dialogue about the current state of digital methods for 
 
 
 🌍 STAY CONNECTED:
-You are welcome to join the Digital Methods Global South Network by collaborating with us to map Digital Methods in Brazil and joining the mailing list:
+You are welcome to join the Digital Methods Global South Network by collaborating with us to map Digital Methods in Brazil and joining the mailing list.
 
 Mapping Digital Methods in Brazil 
 
