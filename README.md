@@ -11,6 +11,13 @@ This roundtable fosters dialogue about the current state of digital methods for 
 
 🔗You are welcome to join the Digital Methods Global South Network by collaborating with us [to map Digital Methods in Brazil (click here!)](https://forms.gle/SD1CutX9Jm6S5XeJA) The results of this form will be displayed here and updated continuously 🤓.
 
+🔗 LINKS
+Mapping Digital Methods in Brazil 
+[🇧🇷 👩🏻‍💻 Mapeando Métodos Digitais no Brasil I Documento Colaborativo & Aberto (https://bit.ly/Metodos-Digitais-Brasil)] 
+
+Mailing List - Digital Methods Global South Network
+[🌍 👩🏻‍💻 Stay connected with the Digital Methods Global South Network by subscribing to this mailing list (https://bit.ly/DigitalMethods-GlobalSouthNetwork)] 
+
 Join us in person or online! ✨👩🏻‍💻❣️
 
 ### What Digital Methods are we talking about?
