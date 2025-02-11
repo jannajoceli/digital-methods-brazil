@@ -9,13 +9,14 @@ This roundtable fosters dialogue about the current state of digital methods for 
 
 [✏️Confirm your participation here](https://www.tickettailor.com/events/digitalfuturesinstitute/1527153). If you join us online, we will email you the link.
 
-🔗You are welcome to join the Digital Methods Global South Network by collaborating with us [to map Digital Methods in Brazil (click here!)](https://forms.gle/SD1CutX9Jm6S5XeJA) The results of this form will be displayed here and updated continuously 🤓.
 
-🔗 LINKS
+🌍 STAY CONNECTED:
+You are welcome to join the Digital Methods Global South Network by collaborating with us to map Digital Methods in Brazil and joining the mailing list:
 
 Mapping Digital Methods in Brazil 
 
 [🇧🇷 👩🏻‍💻 Mapeando Métodos Digitais no Brasil I Documento Colaborativo & Aberto](https://bit.ly/Metodos-Digitais-BR-form)
+The results of this form will be displayed here and updated continuously 🤓.
 
 Mailing List - Digital Methods Global South Network
 
