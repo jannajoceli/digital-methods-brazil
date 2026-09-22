@@ -22,7 +22,7 @@ Mailing List - Digital Methods Global South Network
 
 [🌍 👩🏻‍💻 Stay connected with the Digital Methods Global South Network by subscribing to this mailing list](https://bit.ly/DigitalMethods-GlobalSouthNetwork) 
 
-Join us in person or online! ✨👩🏻‍💻❣️
+## Join also DIGITAL-METHODS-NETWORK@jiscmail.ac.uk! ✨👩🏻‍💻❣️
 
 ### What Digital Methods are we talking about?
 The digital methods we discuss are known as a means to repurpose the functioning of dominant web platforms, search engines and online data for social research. Also, considering the technicity of AI and computational medium, these methods invite researchers to (re) think and create new ways of designing and implementing research methods. Digital Methods have been used to advance social media research, media and OSINT studies, and digital investigation.
